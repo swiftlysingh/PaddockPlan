@@ -1,0 +1,165 @@
+{
+	"races": [
+		{
+			"name": "Desert X Prix",
+			"location": "Neom, Saudi Arabia",
+			"latitude": 0,
+			"longitude": 0,
+			"round": 1,
+			"slug": "desert-xprix",
+			"localeKey": "desert-xprix",
+			"sessions": {
+				"shakedown": "2023-03-10T00:00:00Z",
+				"qualifying1": "2023-03-11T05:00:00Z",
+				"qualifying2": "2023-03-11T05:00:00Z",
+				"race1": "2023-03-11T12:00:00Z",
+				"race2": "2023-03-11T12:00:00Z"
+			}
+		},
+		{
+			"name": "Desert X Prix",
+			"location": "Neom, Saudi Arabia",
+			"latitude": 0,
+			"longitude": 0,
+			"round": 2,
+			"slug": "desert-xprix",
+			"localeKey": "desert-xprix",
+			"sessions": {
+				"qualifying1": "2023-03-12T05:00:00Z",
+				"qualifying2": "2023-03-12T05:00:00Z",
+				"race1": "2023-03-12T13:00:00Z",
+				"race2": "2023-03-12T13:00:00Z"
+			}
+		},
+		{
+			"name": "Hydro X Prix",
+			"location": "Dumfries & Galloway, Scotland",
+			"latitude": 0,
+			"longitude": 0,
+			"round": 3,
+			"slug": "hydro-xprix",
+			"localeKey": "hydro-xprix",
+			"sessions": {
+				"shakedown": "2023-05-12T00:00:00Z",
+				"qualifying1": "2023-05-13T06:00:00Z",
+				"qualifying2": "2023-05-13T06:00:00Z",
+				"race1": "2023-05-13T12:00:00Z",
+				"race2": "2023-05-13T12:00:00Z"
+			}
+		},
+		{
+			"name": "Hydro X Prix",
+			"location": "Dumfries & Galloway, Scotland",
+			"latitude": 0,
+			"longitude": 0,
+			"round": 4,
+			"slug": "hydro-xprix",
+			"localeKey": "hydro-xprix",
+			"sessions": {
+				"qualifying1": "2023-05-14T06:00:00Z",
+				"qualifying2": "2023-05-14T06:00:00Z",
+				"race1": "2023-05-14T12:00:00Z",
+				"race2": "2023-05-14T12:00:00Z"
+			}
+		},
+		{
+			"name": "Island X Prix",
+			"location": "Sardinia, Italy",
+			"latitude": 0,
+			"longitude": 0,
+			"round": 5,
+			"slug": "island-xprix",
+			"localeKey": "island-xprix",
+			"tbc": true,
+			"sessions": {
+				"shakedown": "2023-07-07T00:00:00Z",
+				"qualifying1": "2023-07-08T00:00:00Z",
+				"qualifying2": "2023-07-08T00:00:00Z",
+				"race1": "2023-07-08T00:00:00Z",
+				"race2": "2023-07-08T00:00:00Z"
+			}
+		},
+		{
+			"name": "Island X Prix",
+			"location": "Sardinia, Italy",
+			"latitude": 0,
+			"longitude": 0,
+			"round": 6,
+			"slug": "island-xprix",
+			"localeKey": "island-xprix",
+			"tbc": true,
+			"sessions": {
+				"qualifying1": "2023-07-09T00:00:00Z",
+				"qualifying2": "2023-07-09T00:00:00Z",
+				"race1": "2023-07-09T00:00:00Z",
+				"race2": "2023-07-09T00:00:00Z"
+			}
+		},
+		{
+			"name": "TBC X Prix",
+			"location": "Amazon or USA",
+			"latitude": 0,
+			"longitude": 0,
+			"round": 7,
+			"slug": "tbc-xprix",
+			"localeKey": "tbc-xprix",
+			"tbc": true,
+			"sessions": {
+				"shakedown": "2023-07-15T00:00:00Z",
+				"qualifying1": "2023-09-16T00:00:00Z",
+				"qualifying2": "2023-09-16T00:00:00Z",
+				"race1": "2023-09-16T00:00:00Z",
+				"race2": "2023-09-16T00:00:00Z"
+			}
+		},
+		{
+			"name": "TBC X Prix",
+			"location": "Amazon or USA",
+			"latitude": 0,
+			"longitude": 0,
+			"round": 8,
+			"slug": "tbc-xprix",
+			"localeKey": "tbc-xprix",
+			"tbc": true,
+			"sessions": {
+				"qualifying1": "2023-09-17T00:00:00Z",
+				"qualifying2": "2023-09-17T00:00:00Z",
+				"race1": "2023-09-17T00:00:00Z",
+				"race2": "2023-09-17T00:00:00Z"
+			}
+		},
+		{
+			"name": "Copper X Prix",
+			"location": "Antofagasta, Chine",
+			"latitude": 0,
+			"longitude": 0,
+			"round": 9,
+			"slug": "copper-xprix",
+			"localeKey": "copper-xprix",
+			"tbc": true,
+			"sessions": {
+				"shakedown": "2023-12-01T00:00:00Z",
+				"qualifying1": "2023-12-02T00:00:00Z",
+				"qualifying2": "2023-12-02T00:00:00Z",
+				"race1": "2023-12-02T00:00:00Z",
+				"race2": "2023-12-02T00:00:00Z"
+			}
+		},
+		{
+			"name": "Copper X Prix",
+			"location": "Antofagasta, Chine",
+			"latitude": 0,
+			"longitude": 0,
+			"round": 10,
+			"slug": "copper-xprix",
+			"localeKey": "copper-xprix",
+			"tbc": true,
+			"sessions": {
+				"qualifying1": "2023-12-03T00:00:00Z",
+				"qualifying2": "2023-12-03T00:00:00Z",
+				"race1": "2023-12-03T00:00:00Z",
+				"race2": "2023-12-03T00:00:00Z"
+			}
+		}
+	]
+}

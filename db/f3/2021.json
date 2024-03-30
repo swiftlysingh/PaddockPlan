@@ -1,0 +1,123 @@
+{
+	"races": [
+		{
+			"name": "Spanish",
+			"location": "Catalunya",
+			"latitude": 41.5638,
+			"longitude": 2.2585,
+			"round": 1,
+			"slug": "spanish",
+			"localeKey": "spanish",
+			"affiliate": "https://motorsporttickets.com/en-gb/f1/spain/tickets?af=165390",
+			"sessions": {
+				"practice": "2021-05-07T08:05:00Z",
+				"qualifying": "2021-05-07T11:35:00Z",
+				"race1": "2021-05-08T08:35:00Z",
+				"race2": "2021-05-08T14:45:00Z",
+				"race3": "2021-05-09T10:05:00Z"
+			}
+		},
+		{
+			"name": "French",
+			"location": "Paul Ricard",
+			"latitude": 43.2517,
+			"longitude": 5.7935,
+			"round": 2,
+			"slug": "french",
+			"localeKey": "french",
+			"affiliate": "https://motorsporttickets.com/en-gb/f1/france/tickets?af=165390",
+			"sessions": {
+				"practice": "2021-06-18T08:05:00Z",
+				"qualifying": "2021-06-18T11:50:00Z",
+				"race1": "2021-06-19T08:10:00Z",
+				"race2": "2021-06-19T14:40:00Z",
+				"race3": "2021-06-20T09:40:00Z"
+			}
+		},
+		{
+			"name": "Austrian",
+			"location": "Spielberg",
+			"latitude": 47.2225,
+			"longitude": 14.7607,
+			"round": 3,
+			"slug": "austrian",
+			"localeKey": "austrian",
+			"affiliate": "https://motorsporttickets.com/en-gb/f1/austria/tickets?af=165390",
+			"sessions": {
+				"practice": "2021-07-02T07:30:00Z",
+				"qualifying": "2021-07-02T11:50:00Z",
+				"race1": "2021-07-03T08:35:00Z",
+				"race2": "2021-07-03T15:45:00Z",
+				"race3": "2021-07-04T09:05:00Z"
+			}
+		},
+		{
+			"name": "Hungarian",
+			"location": "Budapest",
+			"latitude": 47.583,
+			"longitude": 19.2526,
+			"round": 4,
+			"slug": "hungarian",
+			"localeKey": "hungarian",
+			"affiliate": "https://motorsporttickets.com/en-gb/f1/hungary/tickets?af=165390",
+			"sessions": {
+				"practice": "2021-07-30T08:05:00Z",
+				"qualifying": "2021-07-30T11:50:00Z",
+				"race1": "2021-07-31T08:35:00Z",
+				"race2": "2021-07-31T15:55:00Z",
+				"race3": "2021-08-01T08:45:00Z"
+			}
+		},
+		{
+			"name": "Belgian",
+			"location": "Spa-Francorchamps",
+			"latitude": 50.444,
+			"longitude": 5.9687,
+			"round": 5,
+			"slug": "belgian",
+			"localeKey": "belgian",
+			"affiliate": "https://motorsporttickets.com/en-gb/f1/belgium/tickets?af=165390",
+			"sessions": {
+				"practice": "2021-08-27T08:05:00Z",
+				"qualifying": "2021-08-27T11:55:00Z",
+				"race1": "2021-08-28T08:05:00Z",
+				"race2": "2021-08-28T15:55:00Z",
+				"race3": "2021-08-29T08:40:00Z"
+			}
+		},
+		{
+			"name": "Dutch",
+			"location": "Zandvoort",
+			"latitude": 52.388408,
+			"longitude": 4.547122,
+			"round": 6,
+			"slug": "dutch",
+			"localeKey": "dutch",
+			"affiliate": "https://motorsporttickets.com/en-gb/f1/dutch/tickets?af=165390",
+			"sessions": {
+				"practice": "2021-09-03T08:05:00Z",
+				"qualifying": "2021-09-03T11:50:00Z",
+				"race1": "2021-09-04T08:35:00Z",
+				"race2": "2021-09-04T15:55:00Z",
+				"race3": "2021-09-05T08:45:00Z"
+			}
+		},
+		{
+			"name": "Russian",
+			"location": "Sochi",
+			"latitude": 43.6203,
+			"longitude": 39.712,
+			"round": 7,
+			"slug": "russian",
+			"localeKey": "russian",
+			"affiliate": "https://motorsporttickets.com/en-gb/f1/russia/tickets?af=165390",
+			"sessions": {
+				"practice": "2021-09-24T05:55:00Z",
+				"qualifying": "2021-09-24T10:00:00Z",
+				"race1": "2021-09-25T05:35:00Z",
+				"race2": "2021-09-25T10:40:00Z",
+				"race3": "2021-09-26T06:55:00Z"
+			}
+		}
+	]
+}

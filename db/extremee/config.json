@@ -1,0 +1,26 @@
+{
+	"siteKey": "extremee",
+	"url": "extremeecalendar.com",
+	"calendarCDN": "files-extremee.motorsportcalendars.com",
+	"calendarOutputYear": 2024,
+	"availableYears": [2021, 2022, 2023, 2024],
+	"sessions": ["shakedown", "qualifying1", "qualifying2", "semifinal", "race"],
+	"featuredSessions": ["race1", "race2"],
+	"collapsedSessions": ["shakedown", "qualifying1", "qualifying2", "race1", "race2"],
+	"sessionMap": {
+		"shakedown": "shakedown",
+		"qualifying1": "qualifying1",
+		"qualifying2": "qualifying2",
+		"race1": "race1",
+		"race2": "race2"
+	},
+	"sessionLengths": {
+		"shakedown": 30,
+		"qualifying1": 90,
+		"qualifying2": 90,
+		"race1": 90,
+		"race2": 120
+	},
+	"supportsEmailReminders": false,
+	"notice": "Unfortunately it's not possible to attain times for individual sessions unlike previous years. Sessions will show with duplicate times for now."
+}

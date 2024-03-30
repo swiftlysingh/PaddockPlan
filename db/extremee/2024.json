@@ -1,0 +1,173 @@
+{
+  "races": [
+    {
+      "name": "Jeddah, Saudi Arabia",
+      "location": "Jeddah, Saudi Arabia",
+      "latitude": 0,
+      "longitude": 0,
+      "round": 1,
+      "slug": "jeddah",
+      "category": "Extreme E",
+      "localeKey": "jeddah",
+      "race": "2024-02-17T12:00:00Z",
+      "sessions": [
+        {
+          "sessionName": "shakedown",
+          "sessionTime": "2024-02-16T00:00:00Z"
+        },
+        {
+          "sessionName": "qualifying1",
+          "sessionTime": "2024-02-17T05:00:00Z"
+        },
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-02-17T12:00:00Z"
+        },
+        {
+          "sessionName": "qualifying2",
+          "sessionTime": "2024-02-18T05:00:00Z"
+        },
+        {
+          "sessionName": "race2",
+          "sessionTime": "2024-02-18T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Europe, TBC",
+      "location": "TBC",
+      "latitude": 0,
+      "longitude": 0,
+      "round": 2,
+      "slug": "europe",
+      "category": "Extreme E",
+      "localeKey": "europe",
+      "tbc": true,
+      "race": "2024-07-13T13:00:00Z",
+      "sessions": [
+        {
+          "sessionName": "shakedown",
+          "sessionTime": "2024-07-12T00:00:00Z"
+        },
+        {
+          "sessionName": "qualifying1",
+          "sessionTime": "2024-07-13T05:00:00Z"
+        },
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-07-13T13:00:00Z"
+        },
+        {
+          "sessionName": "qualifying2",
+          "sessionTime": "2024-07-14T05:00:00Z"
+        },
+        {
+          "sessionName": "race2",
+          "sessionTime": "2024-07-14T13:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Sardinia, Italy",
+      "location": "Sardinia, Italy",
+      "latitude": 0,
+      "longitude": 0,
+      "round": 3,
+      "slug": "italy",
+      "category": "Extreme E",
+      "localeKey": "italy",
+      "tbc": true,
+      "race": "2024-09-13T00:00:00Z",
+      "sessions": [
+        {
+          "sessionName": "shakedown",
+          "sessionTime": "2024-09-13T00:00:00Z"
+        },
+        {
+          "sessionName": "qualifying1",
+          "sessionTime": "2024-09-14T00:00:00Z"
+        },
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-09-13T00:00:00Z"
+        },
+        {
+          "sessionName": "qualifying2",
+          "sessionTime": "2024-09-15T00:00:00Z"
+        },
+        {
+          "sessionName": "race2",
+          "sessionTime": "2024-09-15T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Sardinia, Italy",
+      "location": "Sardinia, Italy",
+      "latitude": 0,
+      "longitude": 0,
+      "round": 4,
+      "slug": "italy",
+      "category": "Extreme E",
+      "localeKey": "italy",
+      "tbc": true,
+      "race": "2024-09-21T00:00:00Z",
+      "sessions": [
+        {
+          "sessionName": "shakedown",
+          "sessionTime": "2024-09-20T00:00:00Z"
+        },
+        {
+          "sessionName": "qualifying1",
+          "sessionTime": "2024-09-21T00:00:00Z"
+        },
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-09-21T00:00:00Z"
+        },
+        {
+          "sessionName": "qualifying2",
+          "sessionTime": "2024-09-22T00:00:00Z"
+        },
+        {
+          "sessionName": "race2",
+          "sessionTime": "2024-09-22T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Phoenix, USA",
+      "location": "Phoenix, USA",
+      "latitude": 0,
+      "longitude": 0,
+      "round": 5,
+      "slug": "phoenix",
+      "category": "Extreme E",
+      "localeKey": "phoenix",
+      "tbc": true,
+      "race": "2024-11-23T00:00:00Z",
+      "sessions": [
+        {
+          "sessionName": "shakedown",
+          "sessionTime": "2024-11-22T00:00:00Z"
+        },
+        {
+          "sessionName": "qualifying1",
+          "sessionTime": "2024-11-23T00:00:00Z"
+        },
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-11-23T00:00:00Z"
+        },
+        {
+          "sessionName": "qualifying2",
+          "sessionTime": "2024-11-24T00:00:00Z"
+        },
+        {
+          "sessionName": "race2",
+          "sessionTime": "2024-11-24T00:00:00Z"
+        }
+      ]
+    }
+  ]
+}

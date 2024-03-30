@@ -1,0 +1,36 @@
+{
+  "sites": [
+    {
+      "name": "F1",
+      "id": "f1"
+    },
+    {
+      "name": "F2",
+      "id": "f2"
+    },
+    {
+      "name": "F3",
+      "id": "f3"
+    },
+    {
+      "name": "Formula E",
+      "id": "fe"
+    },
+    {
+      "name": "Extreme E",
+      "id": "extremee"
+    },
+    {
+      "name": "IndyCar",
+      "id": "indycar"
+    },
+    {
+      "name": "MotoGP",
+      "id": "motogp"
+    },
+    {
+      "name": "F1 Academy",
+      "id": "f1-academy"
+    }
+  ]
+}
