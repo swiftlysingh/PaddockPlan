@@ -3,6 +3,8 @@ Welcome to PaddockPlan: Your Comprehensive Motorsport Event Scheduler. As the wo
 
 ![P (1)](https://github.com/swiftlysingh/PaddockPlan/assets/47032662/6f39dede-a3cb-4eb7-9f4a-e0ffe7f948c5)
 
+<a href="https://apps.apple.com/us/app/paddockplan/id6479947452?itsct=apps_box_promote_link&itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1706313600" alt="Download on the App Store" style="border-radius: 13px; width: 75%; height: 83px;"></a>
+
 ## Inspiration Behind PaddockPlan
 Recognizing the challenges fans face in keeping track of various motorsport events across different series, PaddockPlan was developed to provide a seamless, integrated scheduling experience. Whether it's Formula racing, MotoGP, or IndyCar, PaddockPlan brings the schedule to you, ensuring you never miss an important race.
 
