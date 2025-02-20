@@ -1,0 +1,271 @@
+{
+    "races": [
+      {
+        "name": "São Paulo ePrix",
+        "location": "São Paulo",
+        "latitude": -23.7007,
+        "longitude": -46.6973,
+        "round": 1,
+        "slug": "sao-paulo-eprix",
+        "localeKey": "sao-paulo-eprix",
+        "race": "2024-12-07T17:03:00Z",
+        "sessions": [
+          {"sessionName": "practice1", "sessionTime": "2024-12-06T19:30:00Z"},
+          {"sessionName": "practice2", "sessionTime": "2024-12-07T10:30:00Z"},
+          {"sessionName": "qualifying", "sessionTime": "2024-12-07T12:40:00Z"},
+          {"sessionName": "race", "sessionTime": "2024-12-07T17:03:00Z"}
+        ],
+        "category": "Formula E"
+      },
+      {
+        "name": "Mexico City ePrix",
+        "location": "Mexico",
+        "latitude": 19.4063,
+        "longitude": -99.0902,
+        "round": 2,
+        "slug": "mexico-city-eprix",
+        "localeKey": "mexico-city-eprix",
+        "race": "2025-01-11T20:04:00Z",
+        "sessions": [
+          {"sessionName": "practice1", "sessionTime": "2025-01-10T22:25:00Z"},
+          {"sessionName": "practice2", "sessionTime": "2025-01-11T13:25:00Z"},
+          {"sessionName": "qualifying", "sessionTime": "2025-01-11T15:40:00Z"},
+          {"sessionName": "race", "sessionTime": "2025-01-11T20:04:00Z"}
+        ],
+        "category": "Formula E"
+      },
+      {
+        "name": "Jeddah ePrix",
+        "location": "Jeddah",
+        "latitude": 21.5435,
+        "longitude": 39.1728,
+        "round": 3,
+        "slug": "jeddah-eprix",
+        "localeKey": "jeddah-eprix",
+        "race": "2025-02-14T17:04:00Z",
+        "sessions": [
+          {"sessionName": "practice1", "sessionTime": "2025-02-13T14:55:00Z"},
+          {"sessionName": "practice2", "sessionTime": "2025-02-14T09:55:00Z"},
+          {"sessionName": "qualifying", "sessionTime": "2025-02-14T12:20:00Z"},
+          {"sessionName": "race", "sessionTime": "2025-02-14T17:04:00Z"}
+        ],
+        "category": "Formula E"
+      },
+      {
+        "name": "Jeddah ePrix",
+        "location": "Jeddah",
+        "latitude": 21.5435,
+        "longitude": 39.1728,
+        "round": 4,
+        "slug": "jeddah-eprix",
+        "localeKey": "jeddah-eprix",
+        "race": "2025-02-15T17:04:00Z",
+        "sessions": [
+          {"sessionName": "practice3", "sessionTime": "2025-02-15T09:55:00Z"},
+          {"sessionName": "qualifying", "sessionTime": "2025-02-15T12:20:00Z"},
+          {"sessionName": "race", "sessionTime": "2025-02-15T17:04:00Z"}
+        ],
+        "category": "Formula E"
+      },
+      {
+        "name": "Miami ePrix",
+        "location": "Miami",
+        "latitude": 25.4687,
+        "longitude": -80.4112,
+        "round": 5,
+        "slug": "miami-eprix",
+        "localeKey": "miami-eprix",
+        "race": "2025-04-12T17:03:00Z",
+        "sessions": [
+          {"sessionName": "practice1", "sessionTime": "2025-04-11T19:30:00Z"},
+          {"sessionName": "practice2", "sessionTime": "2025-04-12T10:30:00Z"},
+          {"sessionName": "qualifying", "sessionTime": "2025-04-12T12:40:00Z"},
+          {"sessionName": "race", "sessionTime": "2025-04-12T17:03:00Z"}
+        ],
+        "category": "Formula E"
+      },
+      {
+        "name": "Monaco ePrix",
+        "location": "Monte Carlo",
+        "latitude": 43.7338,
+        "longitude": 7.4215,
+        "round": 6,
+        "slug": "monaco-eprix",
+        "localeKey": "monaco-eprix",
+        "race": "2025-05-03T13:03:00Z",
+        "sessions": [
+          {"sessionName": "practice1", "sessionTime": "2025-05-03T05:25:00Z"},
+          {"sessionName": "practice2", "sessionTime": "2025-05-03T07:05:00Z"},
+          {"sessionName": "qualifying", "sessionTime": "2025-05-03T08:40:00Z"},
+          {"sessionName": "race", "sessionTime": "2025-05-03T13:03:00Z"}
+        ],
+        "category": "Formula E"
+      },
+      {
+        "name": "Monaco ePrix",
+        "location": "Monte Carlo",
+        "latitude": 43.7338,
+        "longitude": 7.4215,
+        "round": 7,
+        "slug": "monaco-eprix",
+        "localeKey": "monaco-eprix",
+        "race": "2025-05-04T13:03:00Z",
+        "sessions": [
+          {"sessionName": "practice3", "sessionTime": "2025-05-04T05:25:00Z"},
+          {"sessionName": "qualifying", "sessionTime": "2025-05-04T08:40:00Z"},
+          {"sessionName": "race", "sessionTime": "2025-05-04T13:03:00Z"}
+        ],
+        "category": "Formula E"
+      },
+      {
+        "name": "Tokyo ePrix",
+        "location": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.6917,
+        "round": 8,
+        "slug": "tokyo-eprix",
+        "localeKey": "tokyo-eprix",
+        "race": "2025-05-17T06:03:00Z",
+        "sessions": [
+          {"sessionName": "practice1", "sessionTime": "2025-05-16T07:25:00Z"},
+          {"sessionName": "practice2", "sessionTime": "2025-05-16T22:55:00Z"},
+          {"sessionName": "qualifying", "sessionTime": "2025-05-17T01:20:00Z"},
+          {"sessionName": "race", "sessionTime": "2025-05-17T06:03:00Z"}
+        ],
+        "category": "Formula E"
+      },
+      {
+        "name": "Tokyo ePrix",
+        "location": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.6917,
+        "round": 9,
+        "slug": "tokyo-eprix",
+        "localeKey": "tokyo-eprix",
+        "race": "2025-05-18T06:03:00Z",
+        "sessions": [
+          {"sessionName": "practice3", "sessionTime": "2025-05-17T22:55:00Z"},
+          {"sessionName": "qualifying", "sessionTime": "2025-05-18T01:20:00Z"},
+          {"sessionName": "race", "sessionTime": "2025-05-18T06:03:00Z"}
+        ],
+        "category": "Formula E"
+      },
+      {
+        "name": "Shanghai ePrix",
+        "location": "Shanghai",
+        "latitude": 31.2304,
+        "longitude": 121.4737,
+        "round": 10,
+        "slug": "shanghai-eprix",
+        "localeKey": "shanghai-eprix",
+        "race": "2025-05-31T07:03:00Z",
+        "sessions": [
+          {"sessionName": "practice1", "sessionTime": "2025-05-30T08:55:00Z"},
+          {"sessionName": "practice2", "sessionTime": "2025-05-30T23:55:00Z"},
+          {"sessionName": "qualifying", "sessionTime": "2025-05-31T02:20:00Z"},
+          {"sessionName": "race", "sessionTime": "2025-05-31T07:03:00Z"}
+        ],
+        "category": "Formula E"
+      },
+      {
+        "name": "Shanghai ePrix",
+        "location": "Shanghai",
+        "latitude": 31.2304,
+        "longitude": 121.4737,
+        "round": 11,
+        "slug": "shanghai-eprix",
+        "localeKey": "shanghai-eprix",
+        "race": "2025-06-01T07:03:00Z",
+        "sessions": [
+          {"sessionName": "practice3", "sessionTime": "2025-05-31T23:55:00Z"},
+          {"sessionName": "qualifying", "sessionTime": "2025-06-01T02:20:00Z"},
+          {"sessionName": "race", "sessionTime": "2025-06-01T07:03:00Z"}
+        ],
+        "category": "Formula E"
+      },
+      {
+        "name": "Jakarta ePrix",
+        "location": "Jakarta",
+        "latitude": -6.2088,
+        "longitude": 106.8456,
+        "round": 12,
+        "slug": "jakarta-eprix",
+        "localeKey": "jakarta-eprix",
+        "race": "2025-06-21T08:03:00Z",
+        "sessions": [
+          {"sessionName": "practice1", "sessionTime": "2025-06-20T10:25:00Z"},
+          {"sessionName": "practice2", "sessionTime": "2025-06-21T01:55:00Z"},
+          {"sessionName": "qualifying", "sessionTime": "2025-06-21T04:20:00Z"},
+          {"sessionName": "race", "sessionTime": "2025-06-21T08:03:00Z"}
+        ],
+        "category": "Formula E"
+      },
+      {
+        "name": "Berlin ePrix",
+        "location": "Berlin",
+        "latitude": 52.4822,
+        "longitude": 13.3894,
+        "round": 13,
+        "slug": "berlin-eprix",
+        "localeKey": "berlin-eprix",
+        "race": "2025-07-12T13:03:00Z",
+        "sessions": [
+          {"sessionName": "practice1", "sessionTime": "2025-07-11T14:55:00Z"},
+          {"sessionName": "practice2", "sessionTime": "2025-07-12T05:55:00Z"},
+          {"sessionName": "qualifying", "sessionTime": "2025-07-12T08:20:00Z"},
+          {"sessionName": "race", "sessionTime": "2025-07-12T13:03:00Z"}
+        ],
+        "category": "Formula E"
+      },
+      {
+        "name": "Berlin ePrix",
+        "location": "Berlin",
+        "latitude": 52.4822,
+        "longitude": 13.3894,
+        "round": 14,
+        "slug": "berlin-eprix",
+        "localeKey": "berlin-eprix",
+        "race": "2025-07-13T13:03:00Z",
+        "sessions": [
+          {"sessionName": "practice3", "sessionTime": "2025-07-13T05:55:00Z"},
+          {"sessionName": "qualifying", "sessionTime": "2025-07-13T08:20:00Z"},
+          {"sessionName": "race", "sessionTime": "2025-07-13T13:03:00Z"}
+        ],
+        "category": "Formula E"
+      },
+      {
+        "name": "London ePrix",
+        "location": "London",
+        "latitude": 51.5074,
+        "longitude": -0.1278,
+        "round": 15,
+        "slug": "london-eprix",
+        "localeKey": "london-eprix",
+        "race": "2025-07-26T16:03:00Z",
+        "sessions": [
+          {"sessionName": "practice1", "sessionTime": "2025-07-25T15:55:00Z"},
+          {"sessionName": "practice2", "sessionTime": "2025-07-26T08:55:00Z"},
+          {"sessionName": "qualifying", "sessionTime": "2025-07-26T11:20:00Z"},
+          {"sessionName": "race", "sessionTime": "2025-07-26T16:03:00Z"}
+        ],
+        "category": "Formula E"
+      },
+      {
+        "name": "London ePrix",
+        "location": "London",
+        "latitude": 51.5074,
+        "longitude": -0.1278,
+        "round": 16,
+        "slug": "london-eprix",
+        "localeKey": "london-eprix",
+        "race": "2025-07-27T16:03:00Z",
+        "sessions": [
+          {"sessionName": "practice3", "sessionTime": "2025-07-27T08:55:00Z"},
+          {"sessionName": "qualifying", "sessionTime": "2025-07-27T11:20:00Z"},
+          {"sessionName": "race", "sessionTime": "2025-07-27T16:03:00Z"}
+        ],
+        "category": "Formula E"
+      }
+    ]
+  }
+  

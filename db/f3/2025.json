@@ -1,0 +1,255 @@
+{
+    "races": [
+      {
+        "name": "Australian",
+        "location": "Melbourne",
+        "latitude": -37.8373,
+        "longitude": 144.9666,
+        "round": 1,
+        "slug": "melbourne",
+        "localeKey": "melbourne",
+        "race": "2025-03-16T22:00:00Z",
+        "sessions": [
+          {
+            "sessionName": "practice",
+            "sessionTime": "2025-03-14T21:50:00Z"
+          },
+          {
+            "sessionName": "qualifying",
+            "sessionTime": "2025-03-15T03:00:00Z"
+          },
+          {
+            "sessionName": "sprint",
+            "sessionTime": "2025-03-16T00:15:00Z"
+          }
+        ],
+        "category": "F3"
+      },
+      {
+        "name": "Bahrain",
+        "location": "Sakhir",
+        "latitude": 26.037,
+        "longitude": 50.5112,
+        "round": 2,
+        "slug": "bahrain",
+        "localeKey": "bahrain",
+        "race": "2025-04-13T07:20:00Z",
+        "sessions": [
+          {
+            "sessionName": "practice",
+            "sessionTime": "2025-04-11T06:45:00Z"
+          },
+          {
+            "sessionName": "qualifying",
+            "sessionTime": "2025-04-11T09:55:00Z"
+          },
+          {
+            "sessionName": "sprint",
+            "sessionTime": "2025-04-12T14:45:00Z"
+          }
+        ],
+        "category": "F3"
+      },
+      {
+        "name": "Emilia Romagna",
+        "location": "Imola",
+        "latitude": 44.344576,
+        "longitude": 11.713808,
+        "round": 3,
+        "slug": "emilia-romagna",
+        "localeKey": "emilia-romagna",
+        "race": "2025-05-18T08:20:00Z",
+        "sessions": [
+          {
+            "sessionName": "practice",
+            "sessionTime": "2025-05-16T07:45:00Z"
+          },
+          {
+            "sessionName": "qualifying",
+            "sessionTime": "2025-05-16T10:55:00Z"
+          },
+          {
+            "sessionName": "sprint",
+            "sessionTime": "2025-05-17T15:45:00Z"
+          }
+        ],
+        "category": "F3"
+      },
+      {
+        "name": "Monaco",
+        "location": "Monte Carlo",
+        "latitude": 43.7338,
+        "longitude": 7.4215,
+        "round": 4,
+        "slug": "monaco",
+        "localeKey": "monaco",
+        "race": "2025-05-25T08:20:00Z",
+        "sessions": [
+          {
+            "sessionName": "practice",
+            "sessionTime": "2025-05-22T07:45:00Z"
+          },
+          {
+            "sessionName": "qualifying",
+            "sessionTime": "2025-05-23T14:55:00Z"
+          },
+          {
+            "sessionName": "sprint",
+            "sessionTime": "2025-05-24T15:45:00Z"
+          }
+        ],
+        "category": "F3"
+      },
+      {
+        "name": "Spanish",
+        "location": "Barcelona",
+        "latitude": 41.5638,
+        "longitude": 2.2585,
+        "round": 5,
+        "slug": "spanish",
+        "localeKey": "spanish",
+        "race": "2025-06-01T08:20:00Z",
+        "sessions": [
+          {
+            "sessionName": "practice",
+            "sessionTime": "2025-05-30T07:45:00Z"
+          },
+          {
+            "sessionName": "qualifying",
+            "sessionTime": "2025-05-30T10:55:00Z"
+          },
+          {
+            "sessionName": "sprint",
+            "sessionTime": "2025-05-31T15:45:00Z"
+          }
+        ],
+        "category": "F3"
+      },
+      {
+        "name": "Austrian",
+        "location": "Spielberg",
+        "latitude": 47.2225,
+        "longitude": 14.7607,
+        "round": 6,
+        "slug": "austrian",
+        "localeKey": "austrian",
+        "race": "2025-06-29T08:20:00Z",
+        "sessions": [
+          {
+            "sessionName": "practice",
+            "sessionTime": "2025-06-27T07:45:00Z"
+          },
+          {
+            "sessionName": "qualifying",
+            "sessionTime": "2025-06-27T10:55:00Z"
+          },
+          {
+            "sessionName": "sprint",
+            "sessionTime": "2025-06-28T15:45:00Z"
+          }
+        ],
+        "category": "F3"
+      },
+      {
+        "name": "British",
+        "location": "Silverstone",
+        "latitude": 52.0706,
+        "longitude": -1.0174,
+        "round": 7,
+        "slug": "british",
+        "localeKey": "british",
+        "race": "2025-07-06T09:20:00Z",
+        "sessions": [
+          {
+            "sessionName": "practice",
+            "sessionTime": "2025-07-04T08:45:00Z"
+          },
+          {
+            "sessionName": "qualifying",
+            "sessionTime": "2025-07-04T11:55:00Z"
+          },
+          {
+            "sessionName": "sprint",
+            "sessionTime": "2025-07-05T16:45:00Z"
+          }
+        ],
+        "category": "F3"
+      },
+      {
+        "name": "Belgian",
+        "location": "Spa-Francorchamps",
+        "latitude": 50.444,
+        "longitude": 5.9687,
+        "round": 8,
+        "slug": "belgian",
+        "localeKey": "belgian",
+        "race": "2025-07-27T08:20:00Z",
+        "sessions": [
+          {
+            "sessionName": "practice",
+            "sessionTime": "2025-07-25T07:45:00Z"
+          },
+          {
+            "sessionName": "qualifying",
+            "sessionTime": "2025-07-25T10:55:00Z"
+          },
+          {
+            "sessionName": "sprint",
+            "sessionTime": "2025-07-26T15:45:00Z"
+          }
+        ],
+        "category": "F3"
+      },
+      {
+        "name": "Hungarian",
+        "location": "Budapest",
+        "latitude": 47.583,
+        "longitude": 19.2526,
+        "round": 9,
+        "slug": "hungarian",
+        "localeKey": "hungarian",
+        "race": "2025-08-03T08:20:00Z",
+        "sessions": [
+          {
+            "sessionName": "practice",
+            "sessionTime": "2025-08-01T07:45:00Z"
+          },
+          {
+            "sessionName": "qualifying",
+            "sessionTime": "2025-08-01T10:55:00Z"
+          },
+          {
+            "sessionName": "sprint",
+            "sessionTime": "2025-08-02T15:45:00Z"
+          }
+        ],
+        "category": "F3"
+      },
+      {
+        "name": "Italian",
+        "location": "Monza",
+        "latitude": 45.6169,
+        "longitude": 9.2825,
+        "round": 10,
+        "slug": "italian",
+        "localeKey": "italian",
+        "race": "2025-09-07T08:20:00Z",
+        "sessions": [
+          {
+            "sessionName": "practice",
+            "sessionTime": "2025-09-05T07:45:00Z"
+          },
+          {
+            "sessionName": "qualifying",
+            "sessionTime": "2025-09-05T10:55:00Z"
+          },
+          {
+            "sessionName": "sprint",
+            "sessionTime": "2025-09-06T15:45:00Z"
+          }
+        ],
+        "category": "F3"
+      }
+    ]
+  }
+  

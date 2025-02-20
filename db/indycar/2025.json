@@ -1,0 +1,449 @@
+{
+    "races": [
+        {
+            "name": "Firestone Grand Prix of St. Petersburg",
+            "category": "Indycar",
+            "race": "2025-03-09T16:15:00Z",
+            "sessions": [
+                {
+                    "sessionName": "practice1",
+                    "sessionTime": "2025-03-07T19:45:00Z"
+                },
+                {
+                    "sessionName": "practice2",
+                    "sessionTime": "2025-03-08T14:35:00Z"
+                },
+                {
+                    "sessionName": "qualifying",
+                    "sessionTime": "2025-03-08T19:00:00Z"
+                },
+                {
+                    "sessionName": "warmup",
+                    "sessionTime": "2025-03-09T13:10:00Z"
+                },
+                {
+                    "sessionName": "race",
+                    "sessionTime": "2025-03-09T16:15:00Z"
+                }
+            ],
+            "tbc": false,
+            "round": 1,
+            "slug": "firestone-grand-prix-of-st-petersburg-2025",
+            "localeKey": "st-pete-2025",
+            "longitude": 0,
+            "latitude": 0
+        },
+        {
+            "name": "The Thermal Club IndyCar Grand Prix",
+            "category": "Indycar",
+            "race": "2025-03-23T16:15:00Z",
+            "sessions": [
+                {
+                    "sessionName": "practice1",
+                    "sessionTime": "2025-03-21T16:00:00Z"
+                },
+                {
+                    "sessionName": "practice2",
+                    "sessionTime": "2025-03-21T21:00:00Z"
+                },
+                {
+                    "sessionName": "qualifying",
+                    "sessionTime": "2025-03-22T18:00:00Z"
+                },
+                {
+                    "sessionName": "race",
+                    "sessionTime": "2025-03-23T16:15:00Z"
+                }
+            ],
+            "tbc": false,
+            "round": 2,
+            "slug": "thermal-club-gp-2025",
+            "localeKey": "thermal-2025",
+            "longitude": 0,
+            "latitude": 0
+        },
+        {
+            "name": "Acura Grand Prix of Long Beach",
+            "category": "Indycar",
+            "race": "2025-04-20T19:30:00Z",
+            "sessions": [
+                {
+                    "sessionName": "practice1",
+                    "sessionTime": "2025-04-18T21:50:00Z"
+                },
+                {
+                    "sessionName": "practice2",
+                    "sessionTime": "2025-04-19T15:25:00Z"
+                },
+                {
+                    "sessionName": "qualifying",
+                    "sessionTime": "2025-04-19T18:25:00Z"
+                },
+                {
+                    "sessionName": "warmup",
+                    "sessionTime": "2025-04-20T16:00:00Z"
+                },
+                {
+                    "sessionName": "race",
+                    "sessionTime": "2025-04-20T19:30:00Z"
+                }
+            ],
+            "tbc": false,
+            "round": 3,
+            "slug": "long-beach-2025",
+            "localeKey": "long-beach-2025",
+            "longitude": 0,
+            "latitude": 0
+        },
+        {
+            "name": "Children's of Alabama Indy Grand Prix",
+            "category": "Indycar",
+            "race": "2025-04-27T17:30:00Z",
+            "sessions": [
+                {
+                    "sessionName": "practice1",
+                    "sessionTime": "2025-04-25T14:00:00Z"
+                },
+                {
+                    "sessionName": "qualifying",
+                    "sessionTime": "2025-04-26T16:00:00Z"
+                },
+                {
+                    "sessionName": "race",
+                    "sessionTime": "2025-04-27T17:30:00Z"
+                }
+            ],
+            "tbc": false,
+            "round": 4,
+            "slug": "alabama-2025",
+            "localeKey": "alabama-2025",
+            "longitude": 0,
+            "latitude": 0
+        },
+        {
+            "name": "Sonsio Grand Prix",
+            "category": "Indycar",
+            "race": "2025-05-10T19:00:00Z",
+            "sessions": [
+                {
+                    "sessionName": "practice1",
+                    "sessionTime": "2025-05-09T14:00:00Z"
+                },
+                {
+                    "sessionName": "qualifying",
+                    "sessionTime": "2025-05-10T16:00:00Z"
+                },
+                {
+                    "sessionName": "race",
+                    "sessionTime": "2025-05-10T19:00:00Z"
+                }
+            ],
+            "tbc": false,
+            "round": 5,
+            "slug": "sonsio-2025",
+            "localeKey": "sonsio-2025",
+            "longitude": 0,
+            "latitude": 0
+        },
+        {
+            "name": "109th Running of the Indianapolis 500",
+            "category": "Indycar",
+            "race": "2025-05-25T15:00:00Z",
+            "sessions": [
+                {
+                    "sessionName": "practice1",
+                    "sessionTime": "2025-05-13T12:00:00Z"
+                },
+                {
+                    "sessionName": "qualifying",
+                    "sessionTime": "2025-05-17T15:00:00Z"
+                },
+                {
+                    "sessionName": "final practice",
+                    "sessionTime": "2025-05-24T14:00:00Z"
+                },
+                {
+                    "sessionName": "race",
+                    "sessionTime": "2025-05-25T15:00:00Z"
+                }
+            ],
+            "tbc": false,
+            "round": 6,
+            "slug": "indy500-2025",
+            "localeKey": "indy500-2025",
+            "longitude": 0,
+            "latitude": 0
+        },
+        {
+            "name": "Chevrolet Detroit Grand Prix",
+            "category": "Indycar",
+            "race": "2025-06-01T16:00:00Z",
+            "sessions": [
+                {
+                    "sessionName": "practice1",
+                    "sessionTime": "2025-05-30T14:00:00Z"
+                },
+                {
+                    "sessionName": "qualifying",
+                    "sessionTime": "2025-05-31T16:00:00Z"
+                },
+                {
+                    "sessionName": "race",
+                    "sessionTime": "2025-06-01T16:00:00Z"
+                }
+            ],
+            "tbc": false,
+            "round": 7,
+            "slug": "detroit-2025",
+            "localeKey": "detroit-2025",
+            "longitude": 0,
+            "latitude": 0
+        },
+        {
+            "name": "XPEL Grand Prix at Road America",
+            "category": "Indycar",
+            "race": "2025-06-08T19:30:00Z",
+            "sessions": [
+                {
+                    "sessionName": "practice1",
+                    "sessionTime": "2025-06-06T14:00:00Z"
+                },
+                {
+                    "sessionName": "qualifying",
+                    "sessionTime": "2025-06-07T16:00:00Z"
+                },
+                {
+                    "sessionName": "race",
+                    "sessionTime": "2025-06-08T19:30:00Z"
+                }
+            ],
+            "tbc": false,
+            "round": 8,
+            "slug": "road-america-2025",
+            "localeKey": "road-america-2025",
+            "longitude": 0,
+            "latitude": 0
+        },
+        {
+            "name": "Firestone Grand Prix of Monterey",
+            "category": "Indycar",
+            "race": "2025-06-22T22:00:00Z",
+            "sessions": [
+                {
+                    "sessionName": "practice1",
+                    "sessionTime": "2025-06-20T14:00:00Z"
+                },
+                {
+                    "sessionName": "qualifying",
+                    "sessionTime": "2025-06-21T16:00:00Z"
+                },
+                {
+                    "sessionName": "race",
+                    "sessionTime": "2025-06-22T22:00:00Z"
+                }
+            ],
+            "tbc": false,
+            "round": 9,
+            "slug": "monterey-2025",
+            "localeKey": "monterey-2025",
+            "longitude": 0,
+            "latitude": 0
+        },
+        {
+            "name": "Honda Indy 200 at Mid-Ohio",
+            "category": "Indycar",
+            "race": "2025-07-06T17:30:00Z",
+            "sessions": [
+                {
+                    "sessionName": "practice1",
+                    "sessionTime": "2025-07-04T14:00:00Z"
+                },
+                {
+                    "sessionName": "qualifying",
+                    "sessionTime": "2025-07-05T16:00:00Z"
+                },
+                {
+                    "sessionName": "race",
+                    "sessionTime": "2025-07-06T17:30:00Z"
+                }
+            ],
+            "tbc": false,
+            "round": 10,
+            "slug": "mid-ohio-2025",
+            "localeKey": "mid-ohio-2025",
+            "longitude": 0,
+            "latitude": 0
+        },
+        {
+            "name": "Hy-Vee INDYCAR Race Weekend Race 1",
+            "category": "Indycar",
+            "race": "2025-07-13T16:00:00Z",
+            "sessions": [
+                {
+                    "sessionName": "practice1",
+                    "sessionTime": "2025-07-11T14:00:00Z"
+                },
+                {
+                    "sessionName": "qualifying",
+                    "sessionTime": "2025-07-12T16:00:00Z"
+                },
+                {
+                    "sessionName": "race",
+                    "sessionTime": "2025-07-13T16:00:00Z"
+                }
+            ],
+            "tbc": false,
+            "round": 11,
+            "slug": "iowa-1-2025",
+            "localeKey": "iowa-1-2025",
+            "longitude": 0,
+            "latitude": 0
+        },
+        {
+            "name": "Hy-Vee INDYCAR Race Weekend Race 2",
+            "category": "Indycar",
+            "race": "2025-07-14T16:00:00Z",
+            "sessions": [
+                {
+                    "sessionName": "warmup",
+                    "sessionTime": "2025-07-14T13:00:00Z"
+                },
+                {
+                    "sessionName": "race",
+                    "sessionTime": "2025-07-14T16:00:00Z"
+                }
+            ],
+            "tbc": false,
+            "round": 12,
+            "slug": "iowa-2-2025",
+            "localeKey": "iowa-2-2025",
+            "longitude": 0,
+            "latitude": 0
+        },
+        {
+            "name": "Ontario Honda Dealers Indy Toronto",
+            "category": "Indycar",
+            "race": "2025-07-20T17:00:00Z",
+            "sessions": [
+                {
+                    "sessionName": "practice1",
+                    "sessionTime": "2025-07-18T14:00:00Z"
+                },
+                {
+                    "sessionName": "qualifying",
+                    "sessionTime": "2025-07-19T16:00:00Z"
+                },
+                {
+                    "sessionName": "race",
+                    "sessionTime": "2025-07-20T17:00:00Z"
+                }
+            ],
+            "tbc": false,
+            "round": 13,
+            "slug": "toronto-2025",
+            "localeKey": "toronto-2025",
+            "longitude": 0,
+            "latitude": 0
+        },
+        {
+            "name": "Bommarito Automotive Group 500",
+            "category": "Indycar",
+            "race": "2025-08-16T22:00:00Z",
+            "sessions": [
+                {
+                    "sessionName": "practice1",
+                    "sessionTime": "2025-08-14T14:00:00Z"
+                },
+                {
+                    "sessionName": "qualifying",
+                    "sessionTime": "2025-08-15T16:00:00Z"
+                },
+                {
+                    "sessionName": "race",
+                    "sessionTime": "2025-08-16T22:00:00Z"
+                }
+            ],
+            "tbc": false,
+            "round": 14,
+            "slug": "bommarito-2025",
+            "localeKey": "bommarito-2025",
+            "longitude": 0,
+            "latitude": 0
+        },
+        {
+            "name": "BITNILE.COM Grand Prix of Portland",
+            "category": "Indycar",
+            "race": "2025-08-24T19:00:00Z",
+            "sessions": [
+                {
+                    "sessionName": "practice1",
+                    "sessionTime": "2025-08-22T14:00:00Z"
+                },
+                {
+                    "sessionName": "qualifying",
+                    "sessionTime": "2025-08-23T16:00:00Z"
+                },
+                {
+                    "sessionName": "race",
+                    "sessionTime": "2025-08-24T19:00:00Z"
+                }
+            ],
+            "tbc": false,
+            "round": 15,
+            "slug": "portland-2025",
+            "localeKey": "portland-2025",
+            "longitude": 0,
+            "latitude": 0
+        },
+        {
+            "name": "Hy-Vee Milwaukee Mile 250",
+            "category": "Indycar",
+            "race": "2025-08-30T18:30:00Z",
+            "sessions": [
+                {
+                    "sessionName": "practice1",
+                    "sessionTime": "2025-08-28T14:00:00Z"
+                },
+                {
+                    "sessionName": "qualifying",
+                    "sessionTime": "2025-08-29T17:00:00Z"
+                },
+                {
+                    "sessionName": "race",
+                    "sessionTime": "2025-08-30T18:30:00Z"
+                }
+            ],
+            "tbc": false,
+            "round": 16,
+            "slug": "milwaukee-2025",
+            "localeKey": "milwaukee-2025",
+            "longitude": 0,
+            "latitude": 0
+        },
+        {
+            "name": "Big Machine Music City Grand Prix",
+            "category": "Indycar",
+            "race": "2025-08-31T19:00:00Z",
+            "sessions": [
+                {
+                    "sessionName": "practice1",
+                    "sessionTime": "2025-08-29T14:00:00Z"
+                },
+                {
+                    "sessionName": "qualifying",
+                    "sessionTime": "2025-08-30T17:00:00Z"
+                },
+                {
+                    "sessionName": "race",
+                    "sessionTime": "2025-08-31T19:00:00Z"
+                }
+            ],
+            "tbc": false,
+            "round": 17,
+            "slug": "nashville-2025",
+            "localeKey": "nashville-2025",
+            "longitude": 0,
+            "latitude": 0
+        }
+    ]
+}
